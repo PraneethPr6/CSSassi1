@@ -1,0 +1,36 @@
+h1 {
+    color:rgb(231, 17, 17);
+}
+h3 {
+    color: rgb(245, 88, 3);
+    font-style: italic;
+}
+ul li {
+    color: brown;
+    letter-spacing:4px ;
+}
+ol {
+    color: brown;
+}
+p {
+    color:rgb(153, 116, 23);
+    
+}
+#pr {
+    text-decoration: underline;
+    font-style: italic;
+}
+.one {
+    text-decoration: line-through;
+    font-weight:bold;
+}
+.two {
+    background-color: yellow;
+    font-weight:bold;
+}
+.three {
+    background-color: yellow;
+    color:rgb(245, 88, 3);
+    font-style: italic;
+    text-decoration: none;
+}
